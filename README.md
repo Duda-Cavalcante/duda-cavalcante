@@ -3,7 +3,7 @@
 
 ![duda cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=duda-cavalcante&show_icons=true&theme=radical)
 
-## Tecnologias que eu utilizo
+## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
